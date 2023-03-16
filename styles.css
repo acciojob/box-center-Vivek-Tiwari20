@@ -1,14 +1,12 @@
 /*  your css code here. If applicable */
 
-#container{
+#cntainer{
 	height:300px;
 	width:300px;
 	background-color:lightblue;
 	border:2px solid black;
-	
-	
-	 
 }
+
 p{
 	 text-align: center;
 	padding:95px;
@@ -16,3 +14,6 @@ p{
 	 color: purple;
 	
 }
+
+
+
